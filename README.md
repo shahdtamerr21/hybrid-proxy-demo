@@ -13,6 +13,5 @@ This project demonstrates a simple **hybrid proxy concept** where messages can b
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/hybrid-proxy-demo.git
+   git clone https://github.com/shahdtamerr21/hybrid-proxy-demo.git
    cd hybrid-proxy-demo
-```
